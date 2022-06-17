@@ -12,7 +12,7 @@ In brute force attack method,tool try all combination of password to provide acc
 # Install
 
 <ul>
-<li>git clone <a href="https://github.com/dicylow97/fuerzabruta.git">https://github.com/dicylow97/fuerzabruta.git</a></li>
+<li>git clone <a href="https://github.com/AL-AlamySploit/Facebook-BruteForce">https://github.com/AL-AlamySploit/Facebook-BruteForce</a></li>
 <li>cd Facebook-BruteForce/</li>
 <li>pip install requests</li>
 <li>pip install mechanize</li>
